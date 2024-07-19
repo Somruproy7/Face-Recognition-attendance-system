@@ -1,5 +1,5 @@
 
-## Face recognition based attendabce system
+## Face recognition based attendance system
 
 This repository contains a face attendance system project that integrates face recognition for taking attendance. The project includes backend scripts written in PHP and Python, and uses a database for storing attendance data.
 
